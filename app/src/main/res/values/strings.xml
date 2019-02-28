@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppAlimentosSQLite</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="et_tipo">Tipo</string>
+    <string name="et_origen">Origen</string>
+    <string name="et_nutrientes">Nutrientes</string>
+    <string name="et_funcion">Funcion</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_consultar">Consultar Alimento</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="btn_volver">Volver</string>
+</resources>
